@@ -1,6 +1,6 @@
 ### Hi there. I'm @DarkReb1t👋
 
-- 🔭 I’m currently working on UniversalTool this is Windows App (Here we have some powerfull  anime search API, etc)
+- 🔭 I’m currently working on UniversalTool this is Windows App (Here we have some powerfull Windows administration tools, anime search API, etc)
 - 🌱 I’m currently learning about WPF and MVVM.
 
 <!--
