@@ -1,5 +1,11 @@
 ### Hi there. I'm @DarkReb1t👋
 
+- ⚡Main Languages: 
+  - C++
+  - C#
+  - Python
+  - PHP
+
 - 🔭 I’m currently working on UniversalTool this is Windows App that contents:
   - Some powerfull Windows administration tools
   - anime search API
