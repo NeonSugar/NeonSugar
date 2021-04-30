@@ -2,9 +2,9 @@
 
 - 🔭 I’m currently working on UniversalTool this is Windows App (Here we have some powerfull Windows administration tools, anime search API, etc)
 - 🌱 I’m currently learning about WPF and MVVM.
-- 💬 Contacts: 
--   Email: zzxxim@gmail.com
--   Telegram: @Kisano_Sin
+- 💬 Contacts:
+  Email: zzxxim@gmail.com
+  Telegram: @Kisano_Sin
 
 <!--
 **DarkReb1t/DarkReb1t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
