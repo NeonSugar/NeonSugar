@@ -1,20 +1,20 @@
-### Hi there. I'm @DarkReb1t👋
+### Hi there. I'm @NeonSugar👋
 
 - ⚡Main Languages: 
-  - C++
   - C#
-  - Python
+  - C++
   - PHP
+  - Python
 
-- 🔭 I’m currently working on UniversalTool this is Windows App that contents:
-  - Some powerfull Windows administration tools
-  - anime search API
-  - etc
+- 🔭I am currently working on UniversityCompanion,\
+     a platform that is designed to simplify and enhance the experience\
+     of all those involved in the learning process.
   
-- 🌱 I’m currently learning about WPF and MVVM.
+- 🌱 I’m currently learning about React and NodeJS.
 - 💬 Contacts:
-  - Email: zzxxim@gmail.com
-  - Telegram: @Kisano_Sin
+  - Email:    zzxxim@gmail.com
+  - Twitter:  HAOS_Sugar
+  - Telegram: NeonSugar
 
 <!--
 **DarkReb1t/DarkReb1t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
