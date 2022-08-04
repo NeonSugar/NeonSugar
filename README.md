@@ -3,14 +3,11 @@
 - ⚡Main Languages: 
   - C#
   - C++
-  - PHP
-  - Python
 
 - 🔭I am currently working on UniversityCompanion,\
      a platform that is designed to simplify and enhance the experience\
      of all those involved in the learning process.
   
-- 🌱 I’m currently learning about React and NodeJS.
 - 💬 Contacts:
   - Email:    zzxxim@gmail.com
   - Twitter:  HAOS_Sugar
